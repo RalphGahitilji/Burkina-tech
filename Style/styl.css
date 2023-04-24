@@ -1,0 +1,272 @@
+html{
+  overflow-x: hidden;
+  overflow-y: auto;
+  margin: 0;
+  padding: 0; 
+}
+.logo1 img{
+    width: 100px;
+    float: left;
+}
+.im1 img{
+    width: 30px;
+    margin-left: 500px;
+
+}
+.im2 img{
+    width: 30px;
+    margin-left: 150px;
+}
+.im1, .im2{
+    font-size: 15px;
+    color: rgb(235, 54, 54);
+}
+.row .numero{
+  font-size: 15px;
+    color: rgb(235, 54, 54);
+}
+.row .adress{
+  font-size: 15px;
+  color: rgb(235, 54, 54);
+}
+/*   caroussel 1 */
+.carousel-caption h1 {
+    position: absolute;
+    bottom: 100px;
+    left: 10px;
+    color: white;
+}
+.carousel-caption p {
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: white;
+}
+.burkina {
+    width: 150px; height: 50px;
+    background-color: #633DAF;
+    color: #ffffff;
+    position: absolute;
+    bottom: 200px;
+    left: 5px; 
+}
+.burkina span {
+    font-weight: bold;
+    position: relative;
+    top: 10px;
+}
+.co{
+   background-color:#633DAF;
+   height: 60px;
+   color: white;
+   font-size: 20px;
+}
+.co a{
+  text-decoration: none;
+  color: #ffffff;
+
+}
+.s2{
+    background-color:#D3B2DC;
+    height: 400px;
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+     position: relative; 
+}
+.s2 h1{
+    text-align: center;
+}
+.boss img{
+    width: 250px;
+    position: relative;
+    bottom: 20px;
+    
+}
+.t4{
+    position: relative;
+    top: 20px;
+    color: white;
+    height: 200px;
+    width: 600px;
+   
+}
+.bouton button{
+    position: relative;
+    bottom: 50px;
+    float: left;
+    margin-left: 200px;
+    color: #CB6CE6;
+    background-color: #ffffff;
+    font-weight: bold;
+    
+}
+
+/*                 */
+
+
+.sect3 div {
+    position: relative;
+    margin-bottom: 15px;
+}
+div h4{
+    color: #CB6CE6;
+}
+.bor{
+    border:groove;
+     height: 180px;
+     margin: 5px;
+}
+.bor img{
+    width: 100px;
+    margin: 5px;
+    margin-left: 40px;
+
+}
+.bor p{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+/*        section 4            */
+.sect4{
+    background-color: #CB6CE6;
+
+}
+.sect4 h3{
+    color: white;
+}
+.sect4 p{
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+}
+/* section 5    */
+.section5 h1{
+    text-align: center;
+    color: #CB6CE6;
+}
+.patrtenaire img{
+    width: 100px;
+}
+.jag img{
+   width: 200px;
+}
+.uni img{
+    width: 200px;
+}
+.sona img{
+    width: 150px;
+}
+.ip img{
+    width: 150px;
+}
+.sup img{
+    width: 280px;
+}
+.orange img{
+    width: 250px;
+}
+
+/*  caroussel   */
+
+
+.carousel {
+    margin-bottom: 0;
+    padding: 0 40px 30px 40px;
+  }
+  /* The controlsy */
+  .carousel-control {
+    left: -30px;
+    height: 0px;
+    width: 0px;
+    font-size: 153px;
+    background: none repeat scroll 0 0 #000000;
+    border: none;
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 0px;
+  }
+  .carousel-control.right {
+    right: -12px;
+  }
+  .carousel-control.left {
+    left: -62px;
+  }
+  /* The indicators */
+  .carousel-indicators {
+    right: 50%;
+    top: auto;
+    bottom: -10px;
+    margin-right: -19px;
+  }
+  /* The colour of the indicators */
+  .carousel-indicators li {
+    background: #ffffff;
+  }
+  .carousel-indicators .active {
+    background: #1b365d;
+  }
+  /* footer  */
+  footer {
+    background-color: #633DAF;
+  }
+  .flogo img{
+    width: 200px;
+    position: relative;
+    margin-left: 100px;
+    top: 20px;
+  }
+  .flogo p{
+    color: #ffffff;
+    font-size: 20px;
+    position: relative;
+    top: 30px;
+    margin-left: 100px;
+  }
+  .navigation h2{
+    color: #ffffff;
+    position: relative;
+    top: 70px;
+    margin-left: 100px;
+  }
+  ul{
+    position: relative;
+    top: 90px;
+    margin-left: 80px;
+  }
+  ul li{
+    list-style: none;
+    color: #ffffff;
+  }
+  ul li img{
+    width: 30px;
+  }
+  .contact h2{
+    color: #ffffff;
+    position: relative;
+    top: 70px;
+    margin-left: 100px
+  }
+  .fin{
+    background-color: #DD65B6;
+  }
+  .fin p{
+    color: #ffffff;
+    text-align: center;
+  }
+  .reso{
+    position: relative;
+    margin-left: 100px;
+  }
+  .reso img{
+    width: 50px;
+   
+  }
+  .reso{
+    display: flex!important;
+    flex-direction: row;
+  }
+  .reso img .insta{
+width: 30px;
+  }
+  
