@@ -1,0 +1,7 @@
+Burkina-Tech color
+
+violet:#633DAF viol
+rouge :#F65A6E rose
+violet-blanc: #CB6CE6 maron
+violet clair: #DD65B6 rose violet
+section 01:#D3B2DC maron c
